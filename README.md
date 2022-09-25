@@ -1,2 +1,2 @@
-# javaKodlamaIo
+# javaKodlamaio
 Java studies
